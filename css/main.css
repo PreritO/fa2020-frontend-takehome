@@ -80,3 +80,7 @@ td, th {
 th {
     text-align: left;
 }
+
+tbody th {
+    font-weight: 400;
+}
