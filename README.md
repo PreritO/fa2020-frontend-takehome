@@ -1,4 +1,5 @@
 # Founders Fall 2020 Frontend Takehome
+## This is a submission by Prerit Oberai.
 
 Get a list of foods with their nutritional information from our API and format it into a table using JavaScript, Babel, and React.JS.
 
